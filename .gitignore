@@ -1,6 +1,8 @@
 *.class
+META-INF/
 
 # Package Files #
 *.jar
 *.war
 *.ear
+*.iml
