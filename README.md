@@ -1,10 +1,10 @@
 LudumDare26
 ===========
-#Cutato
+##Cutato
 
 Very first Ludum Dare Submission - Theme Minimalism
 
-##Gameplay
+###Gameplay
 <i>Idea was to make a simple mechanic, and one of the joke themes for this year was potatoes.</i>
 
 You're in a factory of some sort, and your job is to peel potatoes.
@@ -15,7 +15,7 @@ Your score will then get higher according to how well you peel the potatoes.
 If your score goes under -200 your game will end.
 Then you can see your highest score though the game and your time.
 
-##Note
+###Note
 Following tools were used for making this,
 <ol>
     <li>IntelliJ IDEA</li>
